@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Bauer",
+    "prefix": "-D",
+    "arg": "java.arg.Jana",
+    "tag": [
+      "red", "black"
+    ]
+  },
+  {
+    "value": "Espinoza",
+    "prefix": "-D",
+    "arg": "java.arg.Mona",
+    "tag": [
+      "red"
+    ]
+  },
+  {
+    "value": "Foley",
+    "prefix": "-D",
+    "arg": "java.arg.Hinton",
+    "tag": [
+      "brown"
+    ]
+  },
+  {
+    "value": "Yang",
+    "prefix": "-D",
+    "arg": "java.arg.Annie",
+    "tag": [
+      "blue"
+    ]
+  },
+  {
+    "value": "Norman",
+    "prefix": "-D",
+    "arg": "java.arg.Bentley",
+    "tag": [
+      "black"
+    ]
+  }
+]

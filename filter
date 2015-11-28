@@ -1,0 +1,8 @@
+. as $taglist
+| map(.tag |= select(.[]==$inctag))
+| map(select(.))
+|( map(.tag |= map(in({"black":0})))
+| map(.tag |= any)
+| map(select(.tag==false))),
+ .[].tag
+#"\(.prefix)\(.arg)=\(.value) "
