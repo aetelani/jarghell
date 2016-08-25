@@ -3,6 +3,7 @@
     "value": "Bauer",
     "prefix": "-D",
     "arg": "java.arg.Jana",
+    "comment": "Jana is best",
     "tag": [
       "red", "black"
     ]
@@ -11,6 +12,7 @@
     "value": "Espinoza",
     "prefix": "-D",
     "arg": "java.arg.Mona",
+    "comment": "Espi is second",
     "tag": [
       "red"
     ]
