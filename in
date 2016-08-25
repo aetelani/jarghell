@@ -2,7 +2,8 @@
   {
     "value": "Bauer",
     "prefix": "-D",
-    "arg": "java.arg.Jana",
+    "domain": "java.arg"
+    "arg": "Jana",
     "comment": "Jana is best",
     "tag": [
       "red", "black"
